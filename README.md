@@ -7,4 +7,4 @@
 
 ##### Project 2
 
-###### In Progress
+###### Currently 6 R scripts for plots and 6 different plots
